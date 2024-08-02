@@ -1,0 +1,14 @@
+.fooder-container{
+    width: 100vw;
+    height: 50vh;
+    border: 2px solid ;
+    background-color: rgb(30, 13, 96);
+    color: white;
+    text-align: start;
+    padding: 30px;
+    font-size: 20px;
+}
+.fooder-end{
+    color: white;
+    padding: 35px 0px 0px 0px;
+}

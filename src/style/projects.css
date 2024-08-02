@@ -1,0 +1,17 @@
+.projects-container {
+  text-align: start;
+  font-size: 17px;
+  padding: 5px 0px 20px 25px;
+}
+.project-title{
+    font-size: 17px;
+}
+.projects-detail-1{
+    padding: 10px 0px 10px 300px;
+}
+.projects-detail-2{
+    padding: 10px 0px 10px 300px;
+}
+.projects-end-line{
+    padding: 50px 30px 10px 30px;
+}

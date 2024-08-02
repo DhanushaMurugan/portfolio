@@ -1,0 +1,21 @@
+.Nav-bar {
+  width: 100vw;
+  background-color: rgb(30, 13, 96);
+  margin-top: 5px;
+  color: white;
+  display: flex;
+}
+.Nav-Brand {
+  text-align: start;
+  width: 60vw;
+  font-size: 10px;
+  padding-left: 20px;
+  font-family: "Dancing Script", cursive;
+}
+.Nav-Menu {
+  font-size: 10px;
+  width: 40vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
