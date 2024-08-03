@@ -8,7 +8,7 @@ function Fooder() {
         <p>+91 6385499934</p>
         <p>mdhanusha7@gmail.com</p>
         <div>
-          <button>Download Resume</button>
+          <button className="fooder-button">Download Resume</button>
         </div>
       </div>
       <div className="fooder-end">

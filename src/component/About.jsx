@@ -33,7 +33,7 @@ function About() {
         </div>
         <div className="sub-details">
           <p>Front-End Developer</p>
-          <p>Institute : Zhahi Tech Pvt Ltd</p>
+          <p>Institute : Zhahi Tech Training</p>
           <p>Year : 2024</p>
         </div>
       </div>

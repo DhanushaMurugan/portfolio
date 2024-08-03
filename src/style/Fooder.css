@@ -12,3 +12,10 @@
     color: white;
     padding: 35px 0px 0px 0px;
 }
+.fooder-button{
+    background-color: white;
+    font-size: 17px;
+    height: 5vh;
+    width: 15vw;
+    border-radius: 20px;
+}
