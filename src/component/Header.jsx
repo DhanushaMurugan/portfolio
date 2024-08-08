@@ -1,6 +1,6 @@
 import React from 'react'
 import '../style/Header.css'
-import profile from'../image/profile.png'
+import profile from "../image/profile.png"
 function Header() {
   return (
     <div>

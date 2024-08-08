@@ -6,12 +6,16 @@
 .project-title{
     font-size: 17px;
 }
-.projects-detail-1{
+.project-detail{
+    display: flex;
+    padding: 20px;
+}
+/* .projects-detail-1{
     padding: 10px 0px 10px 300px;
 }
 .projects-detail-2{
     padding: 10px 0px 10px 300px;
-}
+} */
 .projects-end-line{
     padding: 50px 30px 10px 30px;
 }
