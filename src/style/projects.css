@@ -9,13 +9,48 @@
 .project-detail{
     display: flex;
     padding: 20px;
+    justify-content: space-around;
 }
-/* .projects-detail-1{
-    padding: 10px 0px 10px 300px;
+.projects-detail-1{
+   border: 1px solid gray;
+   text-align: center;
+   color: gray;
+
+}
+.foodPanda-Link{
+    color: rgb(30, 13, 96);;
 }
 .projects-detail-2{
-    padding: 10px 0px 10px 300px;
-} */
+    border: 1px solid gray;
+   text-align: center;
+   color: gray;
+   padding-bottom: 30px;
+} 
+.Heaven-Link{
+    color: rgb(30, 13, 96);
+    
+}
+.foodpanda-sub-details{
+    padding-top: 40px;
+}
 .projects-end-line{
     padding: 50px 30px 10px 30px;
+}
+.projects-detail-3{
+    border: 1px solid gray;
+   text-align: center;
+   color: gray;
+   padding-bottom: 50px;
+
+  
+} 
+.multitasker-Link{
+    color: rgb(30, 13, 96);
+    
+}
+.projectPart-2{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    
 }
